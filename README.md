@@ -19,3 +19,13 @@ Projet de détection et classification de panneaux de signalisation à l’aide 
 - Entraîner un modèle CNN sur des images de panneaux routiers
 - Évaluer les performances sur le dataset GTSRB
 - Détecter les panneaux dans une image ou vidéo en temps réel
+
+- 📥 Télécharger et organiser le dataset GTSRB (German Traffic Sign Recognition Benchmark)
+- 🧽 Prétraiter les images : resize, normalisation, conversion des labels
+- 🧠 Concevoir un modèle CNN avec PyTorch pour classifier les panneaux
+- 🔁 Entraîner le modèle sur les données d’apprentissage, valider sur test
+- 📈 Visualiser les performances : courbes accuracy/loss, confusion matrix
+- 💾 Sauvegarder le modèle entraîné pour la phase d’inférence
+- 🎥 Créer un script de détection temps réel sur image ou webcam avec OpenCV
+- 📂 Structurer le projet comme un dépôt pro : `src/`, `data/`, `results/`, `inference/`
+- 🧪 Bonus : possibilité de test vidéo ou intégration embarquée (Raspberry Pi, etc.)
