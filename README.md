@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛑 Vision Road Sign Detector
 
 Projet de détection et classification de panneaux de signalisation à l’aide de CNN (PyTorch) et OpenCV.
@@ -29,3 +30,7 @@ Projet de détection et classification de panneaux de signalisation à l’aide 
 - 🎥 Créer un script de détection temps réel sur image ou webcam avec OpenCV
 - 📂 Structurer le projet comme un dépôt pro : `src/`, `data/`, `results/`, `inference/`
 - 🧪 Bonus : possibilité de test vidéo ou intégration embarquée (Raspberry Pi, etc.)
+
+# vision-road-sign-detector
+Détection de panneaux de signalisation avec OpenCV et PyTorch
+704e06f2006cef8a7ed91b8b00ac61d6df4cb4fa
